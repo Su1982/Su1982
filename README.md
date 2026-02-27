@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=مطور+برمجيات+متحمس+🚀;مهتم+بأمن+المعلومات+🔒;مطور+منصة+finalyze.com+💰;مقيم+في+فنلندا+🇫🇮)](https://github.com/Su1982)
 
+[![Support Card](https://raw.githubusercontent.com/Su1982/Su1982/main/support_card.png)](https://ko-fi.com/suleiman1982)
+
 [![GitHub followers](https://img.shields.io/github/followers/Su1982?style=for-the-badge&logo=github&color=181717)](https://github.com/Su1982)
 [![Profile Views](https://komarev.com/ghpvc/?username=Su1982&color=2196F3&style=for-the-badge&label=زوار+الملف+الشخصي)](https://github.com/Su1982)
 
