@@ -1,0 +1,33 @@
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Every day at midnight
+  workflow_dispatch:      # Manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    name: Update Profile Stats
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Verify README exists
+        run: |
+          if [ -f "README.md" ]; then
+            echo "README.md exists ✅"
+            echo "Lines: $(wc -l < README.md)"
+          else
+            echo "README.md not found!"
+            exit 1
+          fi
+
+      - name: Check support card
+        run: |
+          if [ -f "support_card.png" ]; then
+            echo "Support card exists ✅"
+          else
+            echo "Support card not found!"
+          fi
