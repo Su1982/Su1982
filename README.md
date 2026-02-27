@@ -85,6 +85,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Su1982-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Su1982)
 [![Website](https://img.shields.io/badge/الموقع-finalyze.com-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://finalyze.com)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-ادعمني-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/suleiman)
 
 </div>
 
@@ -95,5 +96,7 @@
 ### 💡 "الكود الجيد هو الكود الذي يحل مشكلة حقيقية"
 
 ⭐ **إذا أعجبك أي من مشاريعي، لا تتردد في إعطائها نجمة!** ⭐
+
+[![Support on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/suleiman)
 
 </div>
