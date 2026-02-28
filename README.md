@@ -70,15 +70,10 @@ Focus:    Linux | Web Development | InfoSec | Open Source
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Su1982&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Su1982&theme=tokyonight)](https://github.com/Su1982)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Su1982&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Su1982&theme=tokyonight&hide_border=true)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Su1982&theme=tokyonight)](https://github.com/Su1982)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Su1982&theme=tokyonight)](https://github.com/Su1982)
 
 </div>
 
