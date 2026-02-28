@@ -70,14 +70,15 @@ Focus:    Linux | Web Development | InfoSec | Open Source
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Su1982&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su1982&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Su1982&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Su1982&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Su1982&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Su1982&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -88,7 +89,7 @@ Focus:    Linux | Web Development | InfoSec | Open Source
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Su1982-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Su1982)
-[![Website](https://img.shields.io/badge/Website-finalyze.com-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://finalyze.com)
+[![Website](https://img.shields.io/badge/Website-Finalyze-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://finalyze-suleiman.surge.sh)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-suleiman1982-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/suleiman1982)
 
 </div>
