@@ -4,7 +4,7 @@
 
 # مرحباً، أنا سليمان 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%9A%80;Security+Enthusiast+%F0%9F%94%92;Building+finalyze.com+%F0%9F%92%B0;Based+in+Finland+%F0%9F%87%AB%F0%9F%87%AE)](https://github.com/Su1982)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%9A%80;Security+Enthusiast+%F0%9F%94%92;Building+Finalyze+%F0%9F%92%B0;Based+in+Finland+%F0%9F%87%AB%F0%9F%87%AE)](https://su1982.github.io/https-finalyze.com/)
 
 [![GitHub followers](https://img.shields.io/github/followers/Su1982?style=for-the-badge&logo=github&color=181717)](https://github.com/Su1982)
 [![Profile Views](https://komarev.com/ghpvc/?username=Su1982&color=2196F3&style=for-the-badge&label=Profile+Views)](https://github.com/Su1982)
@@ -20,7 +20,8 @@
 Name:     Suleiman
 Location: Finland 🇫🇮
 Role:     Software Developer & Security Enthusiast
-Project:  finalyze.com — Financial Management Platform
+Project:  Finalyze — Free Open Source Financial Management App
+Website:  https://su1982.github.io/https-finalyze.com/
 Focus:    Linux | Web Development | InfoSec | Open Source
 ```
 
@@ -32,8 +33,8 @@ Focus:    Linux | Web Development | InfoSec | Open Source
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :---: | :---: |
-| **Manua** | finalyze.com Financial Management Platform | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) | [🔗 View](https://github.com/Su1982/Manua) |
-| **https-finalyze.com** | Official website source code | ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black) | [🔗 View](https://github.com/Su1982/https-finalyze.com) |
+| **Finalyze** | Free Open Source Financial Management App | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black) | [🌐 Live Site](https://su1982.github.io/https-finalyze.com/) |
+| **https-finalyze.com** | Official website source code | ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black) | [🔗 Source](https://github.com/Su1982/https-finalyze.com) |
 
 </div>
 
